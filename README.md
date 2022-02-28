@@ -1,15 +1,12 @@
+![Runor0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runor0624&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runor0624&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align = 'center'>🧑‍💻주니어 프론트 개발자 한상일 입니다</h1>
 <div align = 'center'>
 <li>주어진 목표를 달성하기 위해 수단과 방법을 가리지 않습니다.</li>
 <li>항상 성장하기 위해 필요하다면 새로운것을 공부합니다</li>
   </div>
   
-  <div align = 'center'>
- 
-  ![Runor0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runor0624&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runor0624&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
 
 
 <h2 align = 'center'> 🛠 Tech Stack 🛠 </h2>
