@@ -23,12 +23,10 @@
   <h2 align = 'center'>📚 공부를 진행하고 있어요! 📚</h2>
   <div align = 'center'>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 </div>
   
- <h2 align = 'center'> 📚 이후 공부할 생각이 있어요 </h2>
- <div align = 'center'> 
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-</div>
+ 
 
 <h2 align = 'center'> 👥 연락처 </h2>
 <div align = 'center'>
