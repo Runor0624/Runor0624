@@ -3,7 +3,6 @@
 
 <h1 align = 'center'>🧑‍💻주니어 프론트 개발자 한상일 입니다</h1>
 <div align = 'center'>
-<li>주어진 목표를 달성하기 위해 수단과 방법을 가리지 않습니다.</li>
 <li>항상 성장하기 위해 필요하다면 새로운것을 공부합니다</li>
   </div>
   
@@ -24,6 +23,8 @@
   <div align = 'center'>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+
 </div>
   
  
