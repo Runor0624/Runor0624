@@ -17,18 +17,25 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
   </div>
-  
   <h2 align = 'center'>📚 공부를 진행하고 있어요! 📚</h2>
   <div align = 'center'>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+</div>
+
+<div align = 'center'>
+  <h2 align = 'center'>사용가능한 Tools</h2>
+    <img src="https://img.shields.io/badge/Slack-4A514B?style=flat&logo=Slack&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 
 </div>
-  
  
-
 <h2 align = 'center'> 👥 연락처 </h2>
 <div align = 'center'>
     <a href=mailto:"bsc7417@gmail.com"><img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/></a>
