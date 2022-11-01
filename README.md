@@ -18,13 +18,14 @@
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+
 
   </div>
   <h2 align = 'center'>📚 공부를 진행하고 있어요! 📚</h2>
   <div align = 'center'>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 </div>
 
 <div align = 'center'>
@@ -40,6 +41,7 @@
 <div align = 'center'>
     <a href=mailto:"bsc7417@gmail.com"><img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://delta-064.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a>
+  <a href="https://www.notion.so/sangilhan/09dde1843f60471fa2de84c30d2c3b42"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
 
 
