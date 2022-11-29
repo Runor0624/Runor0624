@@ -1,5 +1,13 @@
+
+  
+<div align=center>
+
 ![Runor0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runor0624&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runor0624&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 
 <h1 align = 'center'>🧑‍💻주니어 프론트 개발자 한상일 입니다</h1>
 <div align = 'center'>
@@ -36,15 +44,11 @@
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 
 </div>
- 
 <h2 align = 'center'> 👥 연락처 </h2>
 <div align = 'center'>
     <a href=mailto:"bsc7417@gmail.com"><img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://delta-064.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a>
   <a href="https://www.notion.so/sangilhan/09dde1843f60471fa2de84c30d2c3b42"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-
-
-
 </div>
 
  
@@ -62,3 +66,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align = 'center'>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRunor0624&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
