@@ -40,7 +40,6 @@
   <h2 align = 'center'>사용가능한 Tools</h2>
     <img src="https://img.shields.io/badge/Slack-4A514B?style=flat&logo=Slack&logoColor=white"/>
       <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 
 </div>
