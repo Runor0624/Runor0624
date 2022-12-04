@@ -48,7 +48,7 @@
 <div align = 'center'>
     <a href=mailto:"bsc7417@gmail.com"><img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://delta-064.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a>
-  <a href="https://www.notion.so/sangilhan/09dde1843f60471fa2de84c30d2c3b42"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/sangilhan/1d93eaff270645ce875980608e7090c8"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </div>
 
  
