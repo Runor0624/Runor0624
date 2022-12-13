@@ -21,13 +21,19 @@
 <div align = 'center'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React Router-FF4154?style=flat&logo=React Router&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+  
+   <h2 align = 'center'>📚 이후 학습에 관심이 있어요! 📚</h2>
+  <div align = 'center'>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=Flutter&logoColor=white"/>
+
+</div>
 
 <div align = 'center'>
   <h2 align = 'center'>사용가능한 Tools</h2>
