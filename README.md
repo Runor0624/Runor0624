@@ -29,13 +29,6 @@
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
 
-
-  </div>
-  <h2 align = 'center'>📚 공부를 진행하고 있어요! 📚</h2>
-  <div align = 'center'>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-</div>
-
 <div align = 'center'>
   <h2 align = 'center'>사용가능한 Tools</h2>
     <img src="https://img.shields.io/badge/Slack-4A514B?style=flat&logo=Slack&logoColor=white"/>
