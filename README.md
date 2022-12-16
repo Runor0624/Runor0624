@@ -1,47 +1,4 @@
 
-  
-<div align=center>
-
-![Runor0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runor0624&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runor0624&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-
-<h1 align = 'center'>🧑‍💻주니어 프론트 개발자 한상일 입니다</h1>
-<div align = 'center'>
-<li>항상 성장하기 위해 필요하다면 새로운것을 공부합니다</li>
-  </div>
-  
-
-
-<h2 align = 'center'> 🛠 Tech Stack 🛠 </h2>
-<p align = 'center' > 사용가능한 기술 스택 입니다. </p>
-<div align = 'center'>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
-  
-   <h2 align = 'center'>📚 이후 학습에 관심이 있어요! 📚</h2>
-  <div align = 'center'>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=Flutter&logoColor=white"/>
-
-</div>
-
-<div align = 'center'>
-  <h2 align = 'center'>사용가능한 Tools</h2>
-    <img src="https://img.shields.io/badge/Slack-4A514B?style=flat&logo=Slack&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-
-</div>
 <h2 align = 'center'> 👥 연락처 </h2>
 <div align = 'center'>
     <a href=mailto:"bsc7417@gmail.com"><img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/></a>
