@@ -1,10 +1,4 @@
 
-<h2 align = 'center'> 👥 연락처 </h2>
-<div align = 'center'>
-    <a href=mailto:"bsc7417@gmail.com"><img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://delta-064.tistory.com"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/></a>
-
-</div>
 
  
 <!--
