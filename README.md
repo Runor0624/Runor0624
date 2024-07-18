@@ -11,23 +11,3 @@
  ![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
-
-
-
-<div align="center">
- <h3 align="center">
- 🔭 GitHub Stats 🔭
- </h3>
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runor0624)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>
-
-<div align="center">
-  <h3 align="center">
-   🔭 Top Langs 🔭
-  </h3>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runor0624)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
